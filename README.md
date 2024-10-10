@@ -39,15 +39,6 @@ The board is a 3x3 grid with rows and columns indexed from 0 to 2.
 When prompted, enter the row and column number (separated by prompts) to place your mark.
 Example input:
 
-java
-Copy code
-Enter row (0, 1, or 2): 0
-Enter column (0, 1, or 2): 1
-Game Board Symbols
-O: Represents the human player.
-X: Represents the AI player.
-(Empty space): Available for placing a move.
-Game Example
 markdown
 Copy code
 Player 'O' is 1, Player 'X' is -1. Player 'O' starts.
@@ -56,6 +47,7 @@ O| |
  | | 
 -----
  | | 
+
 Human player's turn (O)
 Enter row (0, 1, or 2): 0
 Enter column (0, 1, or 2): 0
